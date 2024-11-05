@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://edabooha.github.io/MVd/sitemap_index.txt
+Sitemap: https://edabooha.github.io/NLQ/sitemap_index.txt
+Sitemap: https://edabooha.github.io/OxB/sitemap_index.txt
+Sitemap: https://edabooha.github.io/RAw/sitemap_index.txt
